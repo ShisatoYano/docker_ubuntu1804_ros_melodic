@@ -37,3 +37,19 @@ Push this icon and the following menue will be opened on the top of VSCode's GUI
 And then, select "Reopen in Container". 
 ![](images/reopen_container.PNG)  
 
+### 4. Build image and run container
+After select "Reopen in Container", building image and running container will be started. Firstly, the following status message will be shown on VSCode.  
+![](images/read_config.PNG)  
+Secondly, the status message will be changed as follow.  
+![](images/starting.PNG)  
+Finally, the docker container will start running as follow.  
+User name is set as "dev-user" in the container and the container's name, "ros_melodic_container" is shown in the blue icon.  
+![](images/dev-user.PNG)  
+
+### 5. Confirm container's behavior
+After the container started running, please confirm roscore can start and rviz can be displayed as follow. If there was no problem, everything will be OK. Enjoy ROS!!  
+![](images/roscore.PNG)  
+![](images/rviz.PNG)  
+
+## Author
+Shisato Yano
