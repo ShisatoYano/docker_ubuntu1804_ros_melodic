@@ -28,3 +28,5 @@ Clone this repository on your Ubuntu.
 ```bash
 $ git clone https://github.com/ShisatoYano/docker_ubuntu1804_ros_melodic.git
 ```
+
+### 3. Open this repo's directory by Dev Containers
