@@ -30,3 +30,10 @@ $ git clone https://github.com/ShisatoYano/docker_ubuntu1804_ros_melodic.git
 ```
 
 ### 3. Open this repo's directory by Dev Containers
+After you intalled Dev Containers extension, you can see the following blue icon on the bottom of the left on VSCode's GUI.  
+![](images/blue_icon.PNG)  
+
+Push this icon and the following menue will be opened on the top of VSCode's GUI.  
+And then, select "Reopen in Container". 
+![](images/reopen_container.PNG)  
+
