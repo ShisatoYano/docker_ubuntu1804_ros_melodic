@@ -16,3 +16,15 @@ To install Docker Engine, you need the 64-bit version of one of these Ubuntu ver
 The following applications need to be installed in advance.  
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Docker](https://www.docker.com/)
+
+## How to use
+### 1. Install VSCode's extention for Docker
+This extension is used to build a docker image, run a docker container and operate something in the container. Please find "Dev Containers" extension and install on your VSCode.  
+![](images/dev_container.PNG)  
+![](images/vscode_server.PNG)
+
+### 2. Clone this repository from GitHub
+Clone this repository on your Ubuntu.  
+```bash
+$ git clone https://github.com/ShisatoYano/docker_ubuntu1804_ros_melodic.git
+```
